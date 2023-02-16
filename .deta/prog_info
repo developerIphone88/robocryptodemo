@@ -1,0 +1,1 @@
+{"id":"2235856c-1f5f-4186-b5b9-13e47337d8d8","space":47563,"runtime":"python3.9","name":"Crypto_Robo-Trading","path":"qkeu4o","project":"d0ub6zdz","account":"144798365827","region":"ap-south-1","deps":["Flask==2.2.2","pandas==1.5.2","requests==2.28.1"],"envs":null,"public":true,"log_level":"off","cron":""}
